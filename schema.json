@@ -19,7 +19,6 @@ paths:
           schema:
             type: integer
             format: int32
-            type: string
       responses:
         '200':
           description: 'Sample response: Details about a user by ID'
